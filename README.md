@@ -1,7 +1,5 @@
-# Code-100
-*daily coding journey and achievements*
-
-Inspired by [Astha Tripathi](https://github.com/asthatripathi17)!
+# LeetCode 75
+*daily coding journey and achievements. Practicing LeetCode-75, 75 Questions for interview prep on LeetCode.*
 
 ## Daily codimg
 
